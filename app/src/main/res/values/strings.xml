@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GanVas3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="selected_image">Selected image</string>
+    <string name="select_image">Select Image</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="transform_image">Transform Image</string>
+    <string name="transformed_image">Transformed image</string>
+</resources>
